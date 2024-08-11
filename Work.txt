@@ -1,0 +1,33 @@
+Security of Cyber Physical Systems Design of a Security Supervisor to Thwart Attacks
+
+
+Automata, cyberattacks, cyber-physical system(CPS), discrete-event system (DES), network system, security.
+
+
+IEEE Transactions on Automation Science and Engineering,Volume:19,Issue:3,Issue Date:July.2022
+
+
+Security_of_Cyber_Physical_Systems
+
+
+security_of_cyber_physical_systems
+
+
+Members
+-------
+
+
+Flowid	
+Timestamp	
+SourceIP	
+DestinationIP	
+protocol_type	
+service
+flag	
+src_bytes	
+dst_bytes	 
+Total_Fwd_Packets
+Prediction
+
+
+cyber_attack_detection
